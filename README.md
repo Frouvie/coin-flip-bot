@@ -1,1 +1,1 @@
-# coin-flip-bot
+# Coin Flip Discord Bot
